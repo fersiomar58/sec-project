@@ -1,0 +1,224 @@
+
+
+
+
+
+body{  
+    background-image: url(https://www.pixel4k.com/wp-content/uploads/2020/10/white-cube-pattern-4k_1602439015.jpg);
+    background-position: center;
+}
+
+
+.names{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color: #C70039;
+
+}
+
+
+
+
+table{
+    width: 80%;
+    margin-left: 150px;
+    border-color: purple;
+    /* background-color:#F778D8; */
+/* height: 50px; */
+/* background: transparent; */
+/* background-color:  rgba(0, 0, 0, 0.0) !important; */
+/* opacity: 1; */
+}
+
+
+table:hover{
+    box-shadow: 10px 10px 10px 10px #2c3743 ;
+  }
+
+td{
+    text-align: center;
+}
+
+.del{
+    /* background-color: none; */
+    /* font-size: 25px; */
+    /* width: 25px; */
+    height: 25px;
+}
+.delete{
+    background-color:none;
+    border: none;
+}
+.like{
+    background-color:none;
+    border: none;
+}
+
+
+
+.img1{
+    height: 150px;
+    width: 250px;
+margin-bottom: 10px; 
+margin-top: 30px;
+
+}
+
+.titles{
+    color: black;
+    font-size: 25px;
+    font-weight: 400;
+    margin: 25px;
+    margin-bottom: 500px;
+ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+/* justify-content: first baseline; */
+
+
+}
+
+
+.img2{
+    height: 150px;
+    width: 250px;
+margin-top: 50px;
+margin-bottom: 10px;
+}
+
+.img3{
+    height: 150px;
+    width: 250px;
+/* margin-top: 20px; */
+margin-top: 70px;
+margin-bottom: 30px;
+}
+
+
+.img4{
+    height: 150px;
+    width: 250px;
+/* margin-top: 25px; */
+margin-bottom: 40px;
+margin-top: 70px;
+
+}
+
+
+.img5{
+    height: 150px;
+    width: 250px;
+/* margin-top: 30px; */
+margin-right: 15px;
+margin-top: 80px;
+margin-bottom: 30px;
+
+
+}
+
+
+
+.names2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color:  #C70039;
+
+}
+
+
+.names3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color:#C70039;
+
+}
+
+
+.names4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color:#C70039;
+
+}
+
+
+.names5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color:  #C70039;
+}
+
+
+.img1:hover {
+    box-shadow: 10px 10px 10px 10px #2c3743 ;
+  }
+
+  .img2:hover {
+    box-shadow: 10px 10px 10px 10px #2c3743 ;
+  }
+  .img3:hover {
+    box-shadow: 10px 10px 10px 10px #2c3743 ;
+  }
+  .img4:hover {
+    box-shadow: 10px 10px 10px 10px #2c3743 ;
+  }
+  .img5:hover {
+    box-shadow: 10px 10px 10px 10px #2c3743 ;
+  }
+
+
+
+.btn-group{
+    display: flex;
+    justify-content: space-around;
+    width: 100px;
+    height: 40px;
+    background: transparent;
+    border: 0.2px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 10px 20px rgba(43, 42, 42, 0.5);
+    margin-top: 20px;
+    border-radius: 40px;
+    margin-right: 20px;
+    align-items: center;
+    /* transform: translate(70px, -50%); */
+ margin-left:5px;
+/* padding-right: 5%;  */
+/* justify-content: center; */
+}
+
+
+.btn-group button{
+        outline: none;
+        border: none;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        background: transparent;
+        background: #dbdbdb;
+        color: #fff;
+        font-size: 27px;
+        /* margin-left: 20px; */
+}
+
+
+  .UniePrice{
+      font-size: 22px;
+      /* margin-left: -200px; */
+  }
+
+  .price{
+      font-size: 22px;
+  }
+
+  .div{
+      margin-right: -500px;
+  }
+
+.class1{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+
+
+
